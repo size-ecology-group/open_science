@@ -1,0 +1,83 @@
+---
+title: "Meeting 1 - how do we approach open science now?"
+output: pdf_document
+---
+
+Overall impressions
+
+After reading Lowndes et al 2017 "Our path to better science in less time using open data science tools" https://www.nature.com/articles/s41559-017-0160,  the main impressions that we all had were that the paper is super helpful, but there are differences in needs for true collaborations and individual projects. But we individually we are doing some of the approaches that the authors outline from their experience with Ocean Health Index but certainly not all.
+
+
+
+Nice points from the paper:
+
+* Documenting communication and decisions through Rmd files and through Issues. 
+* Not just code but also filenames, repo structures, meetings, communication conventions.
+* Despite not working in large collaborative groups, being kind to your future self is a key point of importance
+* Highlights the importance of incremental changes to your workflow - emphasis on evolution not revolution.
+* Make changes achievable and self-paced and know that each repo is a bit better than the last.
+* The efficiency of not reproducing each others work all the time if code is clear and useable.
+* We work on a lot of the same thing - could certain conventions help each other.
+
+
+
+
+What do we feel is the need for evolving our approach?
+
+* Where do we get the latest updates for new packages, functions? Twitter largely, coding clubs.
+* Can we create a project where we can all contribute that helps us act in the same way as a more collaborative unit e.g. OHI?
+
+
+
+What are the ideas for what a project could be?
+
+* Creating a shiny app e.g. for mapping and being able to change it to demonstrate different visualisations?
+* Needs to be practical and that a good proportion of people do as tasks that then contributes to a lab project?
+* Lab workbook 
+
+
+
+###What could a lab book be for size ecology?
+
+* Create an ongong workable document with lab ethos/values 
+* Adding common tasks that might be useful for numerous members as we go. 
+* Link to website
+* Bring in Mizer packages
+* Visualisation where all of our work overlaps
+* Mapping tasks
+
+
+
+Some resources for approaching tidy repositories based on our conversations (people can add to as we go):
+
+
+- Alexa Fredston has some fantastic and super accessible documentation on setting up repos and getting communicating with Git - really worth a read (and not too long!) https://afredston.github.io/learn-git/learn-git.html#2_Setting_up_version_control 
+
+
+#Next session on tidy data (8/6/22)
+
+We need to prep for the next session by:
+
+- Reading Wilson et al 2017 "Good practices in scientific computing" https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510 
+
+- Come ready discuss our current approach to data management
+
+- Long-term goals: "Have clear systems for data management, storage and backup, as well as for documentation of methods and code."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
